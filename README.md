@@ -48,3 +48,10 @@ At Exit 2, head on the ramp right and follow signs for MO-231 I-270 North
 |Cairo|Nile River|3hrs|
 |Nairobi|African Safari|10hrs|
 
+***
+
+>Not all treasure ia not gold and silver mate.
+>> Jayachandra
+
+>Try and try until you reach your Goal.
+>> Swami Vivekananda
