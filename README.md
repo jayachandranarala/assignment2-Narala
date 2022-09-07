@@ -55,3 +55,20 @@ At Exit 2, head on the ramp right and follow signs for MO-231 I-270 North
 
 >Try and try until you reach your Goal.
 >> Swami Vivekananda
+
+***
+> How should you comment CSS? [closed]
+>> https://stackoverflow.com/questions/31063966/how-should-you-comment-css#:~:text=Just%20use%20%2F*%20%2D%2D%2D%2D,to%20comment%20out%20some%20block.
+
+```
+/*
+  This is a 
+  comment in CSS
+*/
+body {
+  font-family: system-ui;
+  font-size: 62.5%  /* 1em = 10px */
+  line-height: 1.4;
+}
+```
+[Comment in CSS](https://css-tricks.com/snippets/css/comments-in-css/)
