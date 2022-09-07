@@ -28,7 +28,14 @@ At Exit 2, head on the ramp right and follow signs for MO-231 I-270 North
     3. Turn left onto Worth Rd
 8. Arrive at Worth Rd/Missouri Civil War Museum.
   
+  ******Near by location******
   
+* Exotic Shisha Lounge
+* The Beerhouse
+* 19th Hole Lounge
+* Buffalo Wild Wings
+* Firehouse Bar&Grill
+* Bar Roma
 
   
 
