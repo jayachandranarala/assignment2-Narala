@@ -38,4 +38,13 @@ At Exit 2, head on the ramp right and follow signs for MO-231 I-270 North
 * Bar Roma
 
   
+[Aboutme](aboutME.md)
+
+***
+|Name of the City |Location to Visit  | Time to spend|
+--- | --- | ---|
+|London|Buckingham Palace|4hrs|
+|Venice|Venetian lagoon|3hrs|
+|Cairo|Nile River|3hrs|
+|Nairobi|African Safari|10hrs|
 
