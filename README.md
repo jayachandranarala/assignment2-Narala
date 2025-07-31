@@ -1,4 +1,4 @@
-# assignment2-Narala
+# Museum
 # Jayachandra Narala
 
 ###### Missouri Civil War Museum
